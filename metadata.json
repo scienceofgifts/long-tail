@@ -1,0 +1,6 @@
+{
+  "name": "Long-Tail Gift Radar — Science of Gifts",
+  "description": "Entity-first search autocomplete miner, buyer-intent scorer, and 3-layer product brief generator for high-converting long-tail gift merchandise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
